@@ -1,0 +1,32 @@
+Execption: it is an abnormal condition which terminates the program unexpecdely/ the flow of execution.
+
+to handle such types of situation we use exception handling
+
+after exception handling flow of programm will be normal
+
+
+try, except, finally, else, raise - these keywords are use in exception handling
+
+
+try - where the devloper feels there can be an exception, that block of code will put into try.
+
+except - when the exception occured in try block then except block will be execute.
+except is use to diaplay the message related to exception.
+
+## errors in List methods
+1. AttributError
+2. TypeError
+3. IndexError
+4. ValueError
+5. MemoryError
+6. Logical Error
+
+
+H.W.
+1. 
+- take name as nput from user
+- check if it contains alpha, numeric, punctuators
+- raise exception if user is giving symbols and numeric
+
+2. 
+- also for mobile number
